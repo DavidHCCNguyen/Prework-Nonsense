@@ -1,0 +1,27 @@
+Pwd(Meaning Print Working Directory) = Showing current location
+
+ls = Shows what is around current location
+
+cd + (One name in current folder) = Entering (Pwd to confirm)
+
+cd .. = Goes back by one
+
+cp = copying (example cp new-file.txt new-folder/new-file-copy.txt)
+
+rm + Name of file/folder(Add in -r) = Deleting
+
+mkdir(Meaning Make Directory) + (What ever name to create it) = Creating Folder
+
+touch + (example Index.html) = Create file
+
+Start + (example First-day.txt) = Entering text
+
+git clone = Website copy
+
+git status = Checking
+
+git add -A = Adding in tracking
+
+git commit -m "First commit" = Texts for person reading
+
+git push origin main = Where it got cloned first
